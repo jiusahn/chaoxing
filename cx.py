@@ -203,7 +203,7 @@ class AutoSign(object):
 			'activeId': activeId,
 			'address': '中国',
 			'uid': '',
-			'clientip': '0.0.0.0',
+			'clientip': '27.22.153.9',
 			'latitude': '-2',
 			'longitude': '-1',
 			'fid': '',
